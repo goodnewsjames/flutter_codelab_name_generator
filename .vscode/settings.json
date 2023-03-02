@@ -1,0 +1,6 @@
+{
+    "dart.flutterHotReloadOnSave": "allIfDirty",
+    "dart.hotReloadOnSave": "allIfDirty",
+    "dart.hotReloadProgress": "statusBar",
+    "dart.previewHotReloadOnSaveWatcher": true
+}
